@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/search-with-autosuggest.git/static/js/main.ef98f370.chunk.js",
-    "main.js.map": "/search-with-autosuggest.git/static/js/main.ef98f370.chunk.js.map",
-    "runtime-main.js": "/search-with-autosuggest.git/static/js/runtime-main.7692c75c.js",
-    "runtime-main.js.map": "/search-with-autosuggest.git/static/js/runtime-main.7692c75c.js.map",
-    "static/js/2.561a496b.chunk.js": "/search-with-autosuggest.git/static/js/2.561a496b.chunk.js",
-    "static/js/2.561a496b.chunk.js.map": "/search-with-autosuggest.git/static/js/2.561a496b.chunk.js.map",
-    "index.html": "/search-with-autosuggest.git/index.html",
-    "static/js/2.561a496b.chunk.js.LICENSE.txt": "/search-with-autosuggest.git/static/js/2.561a496b.chunk.js.LICENSE.txt"
+    "main.js": "/search-with-autosuggest/static/js/main.ef98f370.chunk.js",
+    "main.js.map": "/search-with-autosuggest/static/js/main.ef98f370.chunk.js.map",
+    "runtime-main.js": "/search-with-autosuggest/static/js/runtime-main.bc285d42.js",
+    "runtime-main.js.map": "/search-with-autosuggest/static/js/runtime-main.bc285d42.js.map",
+    "static/js/2.561a496b.chunk.js": "/search-with-autosuggest/static/js/2.561a496b.chunk.js",
+    "static/js/2.561a496b.chunk.js.map": "/search-with-autosuggest/static/js/2.561a496b.chunk.js.map",
+    "index.html": "/search-with-autosuggest/index.html",
+    "static/js/2.561a496b.chunk.js.LICENSE.txt": "/search-with-autosuggest/static/js/2.561a496b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7692c75c.js",
+    "static/js/runtime-main.bc285d42.js",
     "static/js/2.561a496b.chunk.js",
     "static/js/main.ef98f370.chunk.js"
   ]
