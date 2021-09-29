@@ -8,3 +8,7 @@ https://verusbabb.github.io/search-with-autosuggest/
 
 ## Clone the repo and run locally
 
+- clone this repository on your local machine
+- open a terminal from the project folder and npm install
+- npm start
+
