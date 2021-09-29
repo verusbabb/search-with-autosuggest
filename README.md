@@ -4,5 +4,7 @@ This is a React project that searches through data, suggesting potential results
 
 ## Run the app from the web
 
+https://verusbabb.github.io/search-with-autosuggest/
+
 ## Clone the repo and run locally
 
